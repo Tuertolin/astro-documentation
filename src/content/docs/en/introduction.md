@@ -16,10 +16,6 @@ This is the `docs` starter template. It contains all of the features that you ne
 - ✅ **Automatic list of contributors**
 - ✅ (and, best of all) **dark mode**
 
-+   Red
-+   Green
-+   Blue
-
 ## Getting Started
 
 To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
